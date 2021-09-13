@@ -2,4 +2,8 @@
 This is Android application for reading news by clicking category that you want to read.
 Here is the demo.
 
-<video src='your URL here' width=180/>
+
+
+https://user-images.githubusercontent.com/65155300/133079415-f7564ee2-cb7c-4a66-8834-724822d04f94.mp4
+
+
